@@ -1,4 +1,4 @@
-doc_index={'@batch': 'https://outerbounds.github.io/nbdoc/_md_files/decorators',
+{'@batch': 'https://outerbounds.github.io/nbdoc/_md_files/decorators',
  '@card': 'https://outerbounds.github.io/nbdoc/_md_files/decorators',
  '@catch': 'https://outerbounds.github.io/nbdoc/_md_files/decorators',
  '@conda': 'https://outerbounds.github.io/nbdoc/_md_files/decorators',
